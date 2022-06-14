@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Construído com
-Para o desenvolvimento desses projetos utilizei as seguintes tecnologias:
+Para o desenvolvimento desses projetos utilizei a seguinte tecnologia:
 - Logisim;
 
 ---
